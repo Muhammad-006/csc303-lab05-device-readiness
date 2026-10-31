@@ -1,0 +1,17 @@
+# Gradle / Android Studio
+*.iml
+.gradle/
+/local.properties
+.idea/
+.DS_Store
+build/
+/captures
+.externalNativeBuild
+.cxx
+
+# Build outputs and secrets must never be committed
+*.apk
+*.aab
+*.jks
+*.keystore
+*.class

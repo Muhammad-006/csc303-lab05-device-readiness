@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Device Readiness</string>
+    <string name="screen_title">Device Readiness Checker</string>
+    <string name="screen_intro">Enter the device information and evaluate deployment readiness.</string>
+    <string name="device_name_label">Device name</string>
+    <string name="battery_label">Battery percentage</string>
+    <string name="battery_support">Enter a whole number from 0 to 100</string>
+    <string name="network_label">Network available</string>
+    <string name="evaluate">Evaluate</string>
+    <string name="clear">Clear</string>
+    <string name="error_device_name_required">Device name is required</string>
+    <string name="error_battery_invalid">Enter a valid battery percentage from 0 to 100</string>
+    <string name="result_ready">%1$s is ready for deployment.</string>
+    <string name="result_attention">%1$s requires attention before deployment.</string>
+    <string name="status_ready">Ready</string>
+    <string name="status_attention">Needs attention</string>
+    <string name="network_available">available</string>
+    <string name="network_unavailable">unavailable</string>
+    <string name="network_switch_description">Change network availability</string>
+    <string name="battery_progress_description">Battery level %1$d percent</string>
+    <string name="result_accessibility">Device %1$s. Battery %2$d percent. Network %3$s. Status %4$s.</string>
+</resources>
